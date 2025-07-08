@@ -125,7 +125,7 @@ function Projects() {
                   href={pr.Github}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-whitefont-medium hover:underline"
+                  className="text-white font-medium hover:underline"
                 >
                   GitHub
                 </a>
